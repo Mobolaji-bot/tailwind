@@ -1,0 +1,154 @@
+@media (max-width:767px) {
+    nav div {
+         width:380px;
+         
+        
+    }
+
+     .h1 {
+     position:relative;
+     font-size: 14px;
+    left: 10px;
+
+  }
+  .div2 {
+    position:relative;
+    font-size: 12px;
+    right:27rem;
+  }
+  .div3{
+     position:relative;
+    font-size: 12px;
+     right:30.5rem;
+  }
+  .div4 {
+    position:relative;
+    font-size: 12px;
+    right:34rem
+  }
+ .bot{
+    position: relative;
+    background-color: white;
+ left:-37rem;
+ font-size:12px;
+ padding-left: 2px;
+ padding-right:2px;
+ padding-bottom: 2px;
+ }
+ .h2 {
+    position:relative;
+    left:2rem;
+    top:13rem;
+    font-size:19px
+ }
+ .p2 {
+    position:relative;
+    left:2rem;
+    top:13rem;
+    font-size: 20px
+ }
+ .p3 {
+    position:relative;
+    left:2rem;
+    top:13rem;
+    font-size:24px
+ }
+ .p4 {
+    position:relative;
+    left:0.2px;
+     word-break: break-word;
+     top:13rem;
+    font-size:12px
+}
+.p5 {
+    position:relative;
+    left:10rem;
+    top:15rem;
+    z-index: 1;
+}
+.p6 {
+    position:relative;
+    top:10rem;
+    left:2rem;
+    z-index: 2;
+    font-size: 12px;
+}
+.p7 {
+   position: relative;
+   left:5rem;
+   width:200px;
+   bottom:15rem;
+   
+}
+.p11 {
+    position:relative;
+    width:150px;
+    top:13rem
+}
+.p8{
+    position: relative;
+    left:7rem;
+    font-size: 18px;
+    bottom:12px
+}
+.p9{
+    position:relative;
+    left:7rem;
+    font-size: 18px;
+    bottom:12px
+}
+.p10{
+    position:relative;
+    left:1rem;
+    bottom:20rem
+}
+.s2{
+    position: relative;
+  
+}
+.in2 {
+    position:relative;
+    left:70px;
+    width:17.5rem;
+    display:flex;
+    justify-content: center;
+}
+.in3{
+     position:relative;
+    left:70px;
+    width:17.5rem;
+    display:flex;
+    justify-content: center;
+}
+.in4{
+ position:relative;
+    left:70px;
+    width:17.5rem;
+    display:flex;
+    justify-content: center;
+}
+.in5{
+     position:relative;
+    left:70px;
+    width:17.5rem;
+    display:flex;
+    justify-content: center;
+}
+.in6{
+    position:relative;
+     left:70px;
+    width:18rem;
+    display:flex;
+    justify-content: center;
+}
+.in7{
+    position: relative;
+    left:8rem
+}
+
+.a2{
+    position:relative;
+    z-index:2;
+    right:26rem
+}
+}
