@@ -14,22 +14,22 @@
   .div2 {
     position:relative;
     font-size: 12px;
-    right:27rem;
+    right:28rem;
   }
   .div3{
      position:relative;
     font-size: 12px;
-     right:30.5rem;
+     right:31.5rem;
   }
   .div4 {
     position:relative;
     font-size: 12px;
-    right:34rem
+    right:35rem
   }
  .bot{
     position: relative;
     background-color: white;
- left:-37rem;
+ left:-39rem;
  font-size:12px;
  padding-left: 2px;
  padding-right:2px;
@@ -83,7 +83,8 @@
 .p11 {
     position:relative;
     width:150px;
-    top:13rem
+    top:10rem;
+
 }
 .p8{
     position: relative;
